@@ -71,7 +71,9 @@ public class DeathFirstSearch {
             }
         }
     }
-    public static void main(String args[]) {
+    /*public static void main(String args[]) {
+
+
         Scanner in = new Scanner(System.in);
         int N = in.nextInt(); // the total number of nodes in the level, including the gateways
         int L = in.nextInt(); // the number of links
@@ -110,7 +112,7 @@ public class DeathFirstSearch {
 
             // Example: 0 1 are the indices of the nodes you wish to sever the link between
         }
-    }
+    }  */
     static void addEdge(ArrayList<ArrayList<Integer>> adj, int i , int j) {
         adj.get(i).add(j);
         adj.get(i).add(j);

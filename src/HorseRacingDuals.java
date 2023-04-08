@@ -2,7 +2,7 @@ import java.util.Arrays;
 import java.util.Scanner;
 
 public class HorseRacingDuals {
-    public static void main(String args[]) {
+    public static void HorseRacingDuals(String args[]) {
         Scanner in = new Scanner(System.in);
         int N = in.nextInt();
         int[] horseP = new int[N];

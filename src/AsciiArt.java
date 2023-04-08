@@ -4,6 +4,7 @@ import java.util.Scanner;
 import java.util.logging.Level;
 
 public class AsciiArt {
+    /*
     public static void main(String args[]) {
         Scanner in = new Scanner(System.in);
         int length = in.nextInt();
@@ -24,5 +25,5 @@ public class AsciiArt {
             }
             System.out.println();
         }
-    }
+    }*/
 }

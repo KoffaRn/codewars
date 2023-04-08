@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class Unary {
-    public static void main(String args[]) {
+    public static void Unary(String args[]) {
 
 
         Scanner in = new Scanner(System.in);

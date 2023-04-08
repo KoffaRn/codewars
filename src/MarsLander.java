@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class MarsLander {
 
-    public static void main(String args[]) {
+    public static void MarsLander(String args[]) {
         Scanner in = new Scanner(System.in);
         int surfaceN = in.nextInt(); // the number of points used to draw the surface of Mars.
         for (int i = 0; i < surfaceN; i++) {

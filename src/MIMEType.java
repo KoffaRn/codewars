@@ -4,7 +4,7 @@ import java.util.HashMap;
 import java.util.Scanner;
 
 public class MIMEType {
-    public static void main(String args[]) {
+    public static void MIMEType(String args[]) {
         Scanner in = new Scanner(System.in);
         int N = in.nextInt(); // Number of elements which make up the association table.
         int Q = in.nextInt(); // Number Q of file names to be analyzed.

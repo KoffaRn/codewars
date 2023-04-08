@@ -3,7 +3,8 @@ import java.util.ArrayList;
 import java.util.Scanner;
 
 public class Defibrillator {
-    public static void main(String args[]) {
+
+    public static void Defbrillator(String args[]) {
         Scanner in = new Scanner(System.in);
         String sLON = in.next();
         String sLAT = in.next();
